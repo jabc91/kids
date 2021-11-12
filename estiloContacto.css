@@ -1,0 +1,164 @@
+body{
+  background-image: url(fondo3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  transition: 3s;
+}
+
+h1:hover{
+  transform: scale(1,3);
+}
+
+header{
+  bottom:100px;
+  width: 600px;
+  background-color: #D92306;
+  border-color: white;
+  border-style: groove;
+  border-width: medium;
+  border-radius: 15px;
+  padding: 5px;
+  margin:auto;
+}
+
+h2{
+  color: white;
+  text-align: center;
+  font-family: Comic Sans MS;
+}
+
+h3{
+  color: white;
+  text-align: center;
+  font-family: Comic Sans MS;
+  font-style: italic;
+  transition: 3s;
+}
+
+h3:hover{
+  transform: scale(1,0);
+}
+
+nav{
+  bottom:100px;
+  width: 600px;
+  background-color: #FA971A;
+  border-radius: 15px;
+  padding: 5px;
+  margin:auto;
+  border-color: white;
+  border-style: groove;
+  border-width: medium;
+}
+
+#redes{
+  display: block;
+}
+#inicio{
+  border-bottom-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-width: medium;
+  border-style: groove;
+  border-color: white;
+  padding: 30px;
+  font-family: Comic Sans MS;
+  color: white;
+  font-size: 25px;
+  background-image: linear-gradient(green, darkgray);
+  text-align: center;
+  cursor: pointer;
+  transition: 3s;
+}
+
+#inicio:hover{
+  transform: rotate(20deg);
+}
+
+#BOTON1{
+  border-width: thick;
+  border-style: groove;
+  border-color: white;
+  border-radius: 15px;
+  padding: 10px;
+  font-family: calibri;
+  font-style: italic;
+  color: white;
+  font-size: 20px;
+  background-image: linear-gradient(#D32105, white);
+  text-align: center;
+  cursor: pointer;
+  transition: 2s;
+}
+
+#BOTON2{
+  border-width: thick;
+  border-style: groove;
+  border-color: white;
+  border-radius: 15px;
+  padding: 10px;
+  font-family: calibri;
+  font-style: italic;
+  color: white;
+  font-size: 20px;
+  background-image: linear-gradient(#F3A916, white);
+  text-align: center;
+  cursor: pointer;
+  transition: 2s;
+}
+
+#BOTON3{
+  border-width: thick;
+  border-style: groove;
+  border-color: white;
+  border-radius: 15px;
+  padding: 10px;
+  font-family: calibri;
+  font-style: italic;
+  color: white;
+  font-size: 20px;
+  background-image: linear-gradient(#5DF316, white);
+  text-align: center;
+  cursor: pointer;
+  transition: 2s;
+}
+
+#BOTON4{
+  border-width: thick;
+  border-style: groove;
+  border-color: white;
+  border-radius: 15px;
+  padding: 10px;
+  font-family: calibri;
+  font-style: italic;
+  color: white;
+  font-size: 20px;
+  background-image: linear-gradient(#16B5F3, white);
+  text-align: center;
+  cursor: pointer;
+  transition: 2s;
+}
+
+#BOTON1:hover{
+  transform: scale(1,2);
+}
+
+#BOTON2:hover{
+  transform: scale(1,2);
+}
+
+#BOTON3:hover{
+  transform: scale(1,2);
+}
+
+#BOTON4:hover{
+  transform: scale(1,2);
+}
+h4{
+  font-size: 20px;
+}

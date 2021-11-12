@@ -1,0 +1,74 @@
+body{
+  background-image: url(https://ongazi.com/wp-content/uploads/Aprende-a-elegir-cua%CC%81les-son-las-materias-ma%CC%81s-fa%CC%81ciles-de-la-UNED-para-presentar-las-PCE.png);
+  background-size: 1500px 1000px;
+}
+
+h1{
+  font-size: 50px;
+  color: #3B21BF;
+}
+
+div{
+  width: 300px;
+  height: 150px;
+  position: relative;
+  margin: auto;
+  top: 60px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+img{
+  border-radius: 15px;
+}
+
+#es{
+  border: 2px solid black;
+  position: relative;
+  top: 50px;
+  left: -300px;
+}
+
+#en{
+  border: 2px solid black;
+  position: relative;
+  top: -104px;
+  left: 300px;
+}
+
+#mate{
+  border: 2px solid black;
+  position: relative;
+  top: -40px;
+  left: 0px;
+}
+
+#sci{
+  border: 2px solid black;
+  position: relative;
+  top: 50px;
+  left: -300px;
+}
+
+#hst{
+  border: 2px solid black;
+  position: relative;
+  top: -104px;
+  left: 300px;
+}
+
+button{
+  font-family: Just One;
+  font-size: 40px;
+  position: relative;
+  top: -20px;
+  height: 60px;
+  width: 120px;
+  border-radius: 15px;
+  cursor: pointer;
+  background: linear-gradient(90deg,#4BE3B8,#704BE3)
+}
+
+button:hover{
+  background: linear-gradient(90deg,#6C3ADB,#4BA7E3)
+}

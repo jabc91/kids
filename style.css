@@ -1,0 +1,67 @@
+h1{
+	text-align: center;
+	color: #1a2a6c;
+	font-family: "Algerian";
+	font-size: 50px;
+	position: relative;
+	top: 5px;
+}
+body{
+	background-image:url(https://govdatadownload.netapp.com/wp-content/uploads/2016/07/shutterstock_199249334.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+button{
+	background: linear-gradient(90deg,#ED213A,#1565C0);
+	display: block;
+	border: 0;
+	font-size: 16px;
+	padding: 16px 30px;
+	border-radius: 30px;
+	cursor: pointer;
+
+}
+
+div{
+	width: 500px;
+	height: 250px;
+	margin: auto;
+	top: 60px;
+}
+#box1{
+	background:#fd1d1d;
+	position: relative;
+	top: 50px;
+	left: -260px;
+	border: 2px solid black;
+	border-radius: 8px;
+
+}
+#box2{
+	background: #93291E;
+	position: relative;
+	top: -200px;
+	left: 260px;
+	border: 2px solid black;
+	border-radius: 8px;
+}
+#box3{
+	background: #fd1d1d;
+	position: relative;
+	top: -190px;
+	left: -260px;
+	border: 2px solid black;
+	border-radius: 8px;
+}
+
+#box4{
+	background: #93291E;
+	position: relative;
+	top:-440px;
+	left: 260px;
+	border: 2px solid black;
+	border-radius: 8px;
+}
+iframe{
+	border-radius: 20px;
+}

@@ -1,0 +1,72 @@
+body{
+  text-align: center;
+  background-image: url(https://agendaeducativa.org/wp-content/uploads/2020/08/Matem%C3%A1tica-P%C3%A1ginas-web.jpg);
+}
+
+h1{
+  color: #DB3A72;
+  font-family: Hopeless Place;
+  font-size: 60px;
+}
+
+div{
+  width: 500px;
+  height: 250px;
+  position: relative;
+  margin: auto;
+  top: 60px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+iframe{
+  border-radius: 15px;
+}
+
+#video1{
+  border: 2px solid black;
+  position: relative;
+  top: 50px;
+  left: -300px;
+}
+
+#video2{
+  border: 2px solid black;
+  position: relative;
+  top: -204px;
+  left: 300px;
+}
+
+#video3{
+  border: 2px solid black;
+  position: relative;
+  top: -125px;
+  left: -300px;
+}
+#video4{
+  border: 2px solid black;
+  position: relative;
+  top: -379px;
+  left: 300px;
+}
+
+button{
+  font-family: Just One;
+  font-size: 40px;
+  position: relative;
+  top: -300px;
+  height: 60px;
+  width: 120px;
+  border-radius: 15px;
+  cursor: pointer;
+  background: linear-gradient(90deg,#3A76DB,#6C3ADB)
+}
+
+button:hover{
+  background: linear-gradient(90deg,#6C3ADB,#DB3ADB)
+}
+
+p{
+  top: -300px;
+  color: #1DC4E9;
+}

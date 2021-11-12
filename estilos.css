@@ -1,0 +1,62 @@
+h1{
+	text-align: center;
+	color: #1a2a6c;
+	font-family: "Algerian";
+	font-size: 50px;
+	position: relative;
+	top: 5px;
+}
+body{
+	background-image:url(https://cdnuploads.aa.com.tr/uploads/Contents/2021/04/20/thumbs_b_c_5985f80143fe2800de869b967f174288.jpg?v=002853);
+	background-attachment: fixed;
+	background-size: cover;
+}
+button{
+	background: linear-gradient(90deg,#FF0000,#ffffff);
+	display: block;
+	border: 0;
+	font-size: 16px;
+	padding: 16px 30px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+div{
+	width: 500px;
+	height: 250px;
+	margin: auto;
+	top: 60px;
+}
+#box1{
+	background:#fd1d1d;
+	position: relative;
+	top: 50px;
+	left: -260px;
+	border: 2px solid black;
+
+}
+#box2{
+	background: #93291E;
+	position: relative;
+	top: -200px;
+	left: 260px;
+	border: 2px solid black;
+}
+#box3{
+	background: #fd1d1d;
+	position: relative;
+	top: -190px;
+	left: -260px;
+	border: 2px solid black;
+}
+
+#box4{
+	background: #93291E;
+	position: relative;
+	top:-440px;
+	left: 260px; 
+	border: 2px solid black;
+}
+iframe{
+	border-radius: 15px;
+}

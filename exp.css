@@ -1,0 +1,76 @@
+body{
+  text-align: center;
+  background-image: url(https://img2.rtve.es/imagenes/educlan-complementa-educacion-tus-hijos-durante-cierre-preventivo-colegios/1584443214587.jpg);
+  background-repeat: no-repeat;
+  background-size: 1700px 1500px;
+}
+
+h1{
+  color: #1FF939;
+  font-family: Hopeless Place;
+  font-size: 60px;
+}
+
+div{
+  width: 500px;
+  height: 250px;
+  position: relative;
+  margin: auto;
+  top: 60px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+iframe{
+  border-radius: 15px;
+}
+
+#tema1{
+  border: 2px solid black;
+  position: relative;
+  top: 50px;
+  left: -300px;
+}
+
+#tema2{
+  border: 2px solid black;
+  position: relative;
+  top: -204px;
+  left: 300px;
+}
+
+#tema3{
+  border: 2px solid black;
+  position: relative;
+  top: 100px;
+  left: -602px;
+}
+
+#tema4{
+  border: 2px solid black;
+  position: relative;
+  top: -154px;
+  left: -2px;
+}
+
+button{
+  font-family: Just One;
+  font-size: 40px;
+  position: relative;
+  top: -30px;
+  left: -300px;
+  height: 60px;
+  width: 120px;
+  border-radius: 15px;
+  cursor: pointer;
+  background: linear-gradient(90deg,#1FF9EF,#F92C1F)
+}
+
+button:hover{
+  background: linear-gradient(90deg,#F92C1F,#641FF9)
+}
+
+p{
+  top: -300px;
+  color: #E5245E;
+}

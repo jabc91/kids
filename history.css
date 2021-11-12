@@ -1,0 +1,74 @@
+body{
+  text-align: center;
+  background-image: url(https://img.genial.ly/5ebec15b9118947a61f945cd/9421b48a-1571-470b-956b-d1f57b61dee0.jpeg);
+}
+
+h1{
+  color: #1D83E9;
+  font-family: Hopeless Place;
+  font-size: 60px;
+}
+
+div{
+  width: 500px;
+  height: 250px;
+  position: relative;
+  margin: auto;
+  top: 60px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+#cap1{
+  border: 2px solid black;
+  position: relative;
+  top: 50px;
+  left: -300px;
+}
+
+#cap2{
+  border: 2px solid black;
+  position: relative;
+  top: -204px;
+  left: 300px;
+}
+
+#cap3{
+  border: 2px solid black;
+  position: relative;
+  top: 100px;
+  left: -602px;
+}
+
+#cap4{
+  border: 2px solid black;
+  position: relative;
+  top: -154px;
+  left: -2px;
+}
+
+button{
+  font-family: Just One;
+  font-size: 40px;
+  position: relative;
+  top: -30px;
+  left: -300px;
+  height: 60px;
+  width: 120px;
+  border-radius: 15px;
+  cursor: pointer;
+  background: linear-gradient(90deg,#D8F91F,#1FF9B7)
+}
+
+button:hover{
+  background: linear-gradient(90deg,#1FF9B7,#1FADF9)
+}
+
+p{
+  top: -300px;
+  color: #2430E5;
+}
+
+iframe{
+  border-radius: 15px;
+}
