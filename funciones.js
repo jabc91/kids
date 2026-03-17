@@ -1,6 +1,6 @@
 function registro(){
-  var usuarioPredeterminado = "Ubuntu";
-  var contraseñaPredeterminada = 123456789;
+  var usuarioPredeterminado = "Alejo";
+  var contraseñaPredeterminada = 1991;
   var user = document.getElementById('inputUsuario').value;
   var pass = document.getElementById('inputContraseña').value;
   if (user == usuarioPredeterminado & pass==contraseñaPredeterminada){
